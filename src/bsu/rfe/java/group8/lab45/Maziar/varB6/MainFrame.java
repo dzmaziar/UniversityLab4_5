@@ -135,7 +135,7 @@ public class MainFrame extends JFrame {
                 // Вызывать метод отображения графика
 
 
-                //COMMING SOON
+                display.showGraphics(graphicsData);
             }
             // Шаг 5 - Закрыть входной поток
             in.close();
